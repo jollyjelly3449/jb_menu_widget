@@ -1,6 +1,6 @@
-# 서울 장학사 식단 위젯
+# 서울 장학숙 식단 위젯
 
-서울장학사 급식 정보를 iPhone 위젯으로 확인할 수 있는 Scriptable 스크립트입니다.
+서울장학숙 급식 정보를 iPhone 위젯으로 확인할 수 있는 Scriptable 스크립트입니다.
 
 ## 주요 기능
 
@@ -20,5 +20,5 @@
 
 ## 참고
 
-- 식단 정보 출처: [서울장학사 홈페이지](https://seoul.jbiles.or.kr/bbs/board.php?bo_table=sub03_02)  
+- 식단 정보 출처: [서울장학숙 홈페이지](https://seoul.jbiles.or.kr/bbs/board.php?bo_table=sub03_02)  
 - 캐시 파일 경로: `iCloud Drive > Scriptable > mealCache.json`  
